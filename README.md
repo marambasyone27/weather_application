@@ -16,18 +16,13 @@ Udemy Free Course App With 2 API
 - [🆗] Chart
 
 --------------------------------
-- [x] MVC patterns
+- [x] MVC pattern
 -------------------------------
-- [🖥] # Deal With 🖥
-- [x] Deal GetX for statement management
+- [x] Deal with GetX for statement management
 - [x] Deal With dio
 - [x] Deal With charts
 - [x] Deal With Api
-
-
 ------------------------------
-
-
 ## Snapshots
 
 
