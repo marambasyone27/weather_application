@@ -5,12 +5,12 @@ Weather App app is open-source  app for Android & ios. It is built with Dart on 
 <p><img src="snapshot/hole.jpg" /></p>
 <p align="center"><b>Weather App</b></p>
 
-## About🤠
+## About
 
 Udemy Free Course App With 2 API
 
-## Benfit👻
-- [🖥] # Screens 🖥
+## Screens 🖥👻
+- [🖥] 
 - [🆗] Splash Screen
 - [🆗] Home Screen
 - [🆗] Chart
@@ -19,8 +19,7 @@ Udemy Free Course App With 2 API
 - [x] MVC patterns
 -------------------------------
 - [🖥] # Deal With 🖥
-- [x] Make native
-- [x] Deal GetX
+- [x] Deal GetX for statement management
 - [x] Deal With dio
 - [x] Deal With charts
 - [x] Deal With Api
