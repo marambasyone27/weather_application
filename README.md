@@ -26,11 +26,11 @@ Udemy Free Course App With 2 API
 ## Snapshots
 
 
-| Splash Screen | Welcome Screen|
+| Splash Screen |
 |------|-------|
 |<img src="snapshot/splash.jpg" width="400">|<img src="snapshot/wecome.jpg" width="400">|
 
-| Home Page | Detail  Page|
+| Home Page |
 |------|-------|
 |<img src="snapshot/home.jpg" width="400">|<img src="snapshot/detail.jpg" width="400">|
 
